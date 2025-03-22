@@ -2,7 +2,10 @@ Lijo Joseph
 Dharan
 Aman
 Rishant
+<<<<<<< HEAD
 Vijayalakshmi
+=======
+>>>>>>> 2d81639 (Adding a new files for demo and names)
 Gaurav
 Alia
 Sailaja
